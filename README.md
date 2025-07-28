@@ -134,6 +134,9 @@ I'm always excited to collaborate on:
 
 ### 🚀 *"The best code is the one that deploys itself"*
 
+<!-- Cool "Thanks" Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=20&fontAlign=middle&fontColor=ffffff&animation=twinkling" />
+
 
 </div>
 
