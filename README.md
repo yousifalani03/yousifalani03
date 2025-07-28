@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 **YOUSIF ALANI** 🚀
+# 💻 Yousif Alani ☁️
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Cloud+Engineer;Breaking+%26+Building+at+Scale;UC+San+Diego+CS+Student)
 
