@@ -2,7 +2,7 @@
 
 # 🚀 **YOUSIF ALANI** 🚀
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Cloud+Engineering+Enthusiast;DevOps+%26+Infrastructure+Architect;Breaking+%26+Building+at+Scale;UC+San+Diego+CS+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=70&lines=Cloud+Engineer;Breaking+%26+Building+at+Scale;UC+San+Diego+CS+Student)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-###  *"In the cloud, we don't just store data—we architect dreams"*
+###  *"In the cloud, we don't just store data, we architect dreams"*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousif-alani-719654272)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousifalani11@gmail.com)
@@ -132,13 +132,10 @@ I'm always excited to collaborate on:
 
 ### 🚀 *"The best code is the one that deploys itself"*
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=white&animation=twinkling)
 
 </div>
 
 <!-- Visitor Counter -->
 <div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/yousifalani/count.svg)
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yousifalani03" alt="Visitor Count" />
 </div>
