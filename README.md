@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🌊 *"In the cloud, we don't just store data—we architect dreams"*
+###  *"In the cloud, we don't just store data—we architect dreams"*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yousif-alani-719654272)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousifalani11@gmail.com)
@@ -72,21 +72,21 @@ spec:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yousifalani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yousifalani&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=yousifalani03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yousifalani03&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousifalani&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousifalani03&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="100%" />
 </div>
 
 ## 🎮 **RECENT DEPLOYMENTS**
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousifalani&repo=serverless-microservices&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/yousifalani/serverless-microservices)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousifalani&repo=terraform-aws-infrastructure&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/yousifalani/terraform-aws-infrastructure)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousifalani03&repo=Website-Terraform-Deployment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/yousifalani03/Website-Terraform-Deployment)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousifalani03&repo=CDK-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/yousifalani03/CDK-Project)
 
 </div>
 
@@ -98,15 +98,14 @@ $ system_status --current
 ┌─────────────────────────────────────────────────┐
 │  🚀 DEPLOYMENT STATUS: ACTIVE                   │
 │  📈 LEARNING CURVE: EXPONENTIAL                 │
-│  🔧 CURRENT PROJECT: Multi-Cloud Architecture   │
+│  🔧 CURRENT PROJECT: AWS Deployed Portfolio     │
 │  ☁️  NEXT MILESTONE: AWS Solutions Architect    │
-│  🎯 MISSION: Automate All The Things!          │
+│  🎯 MISSION: Make an impact in Infrastructure   │
 └─────────────────────────────────────────────────┘
 
 > uptime
-  Learning since: 2020 📚
+  Learning since: 2021 📚
   Coding streak: ∞ days 💻
-  Coffee consumed: ERROR - Counter overflow ☕
   Bugs fixed: Too many to count 🐛➡️✨
 ```
 
