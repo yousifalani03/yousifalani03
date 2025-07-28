@@ -85,8 +85,10 @@ spec:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousifalani03&repo=Website-Terraform-Deployment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/yousifalani03/Website-Terraform-Deployment)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousifalani03&repo=CDK-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)](https://github.com/yousifalani03/CDK-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousifalani03&repo=Website-Terraform-Deployment&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&t=1)](https://github.com/yousifalani03/Website-Terraform-Deployment)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousifalani03&repo=CDK-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&t=2)](https://github.com/yousifalani03/CDK-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousifalani03&repo=CloudFormation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&t=3)](https://github.com/yousifalani03/CloudFormation)
+
 
 </div>
 
